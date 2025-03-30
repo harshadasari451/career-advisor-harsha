@@ -1,4 +1,4 @@
-# Career Advisor: AI-Driven Career and Compensation Guide
+# Path Finder Career Advisor: AI-Driven Career and Compensation Guide
 
 ## Team Name: PathFinders
 
@@ -81,11 +81,6 @@ Career Advisor is built primarily on **AWS** infrastructure, leveraging cloud-ba
   - Dataset links:
     - [EDA Data](https://www.kaggle.com/datasets/thedevastator/jobs-dataset-from-glassdoor/data?select=eda_data.csv)
     - [Glassdoor Jobs Data](https://www.kaggle.com/datasets/thedevastator/jobs-dataset-from-glassdoor/data?select=glassdoor_jobs.csv)
-  
-- **Visualization Tools:**
-  - **Interactive heat maps** linking skills to compensation.
-  - **Career path trees** to visualize earnings potential.
-  - **Dynamic dashboards** for personalized career projections.
 
 ### Confidentiality & Data Protection
 - Utilizes **federated learning** to process salary data locally before aggregating insights.
