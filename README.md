@@ -1,5 +1,7 @@
 # Career Advisor: AI-Driven Career and Compensation Guide
 
+## Team Name: PathFinders
+
 ## Team Members:
 - **Harsha Vardhan**
 - **Suayash Madhavi**
