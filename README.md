@@ -1,5 +1,11 @@
 # Career Advisor: AI-Driven Career and Compensation Guide
 
+##Team Members:
+- **Harsha Vardhan**
+- **Suayash Madhavi**
+- **Anirudh Sharma**
+- **Aditya Malkar**
+
 ## Overview
 Career Advisor is an AI-powered assistant designed to democratize career advancement by transforming complex compensation data into personalized guidance. By leveraging conversational AI, interactive visualizations, and analytical simulations, Career Advisor helps individuals make informed career decisions, optimize their earning potential, and plan strategic skill development.
 
