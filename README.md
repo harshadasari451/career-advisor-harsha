@@ -1,6 +1,6 @@
 # Career Advisor: AI-Driven Career and Compensation Guide
 
-##Team Members:
+## Team Members:
 - **Harsha Vardhan**
 - **Suayash Madhavi**
 - **Anirudh Sharma**
