@@ -38,16 +38,29 @@ Career Advisor addresses these challenges by providing structured, personalized 
 
 ## Technical Implementation
 ### AI Integration
-Career Advisor combines:
-- **Large Language Models (LLMs)** for conversational AI.
-- **Predictive models** for salary estimations and career forecasting.
-- **Hybrid AI approach** for accuracy and seamless interaction.
+Career Advisor is built primarily on **AWS** infrastructure, leveraging cloud-based AI models and scalable computing power. Key components include:
 
-### Data Visualization
-Career Advisor converts complex data into actionable insights using:
-- **Interactive heat maps** linking skills to compensation.
-- **Career path trees** to visualize earnings potential.
-- **Dynamic dashboards** for personalized career projections.
+- **Model Selection in AWS:**
+  - **Bedrock:** Utilizes **Llama 3** for text generation to power conversational AI.
+  - **Titan Image Generator:** Used for generating visualizations based on salary trends and career paths.
+
+- **Data Processing and Access:**
+  - AWS CLI is used to access and manage models securely.
+  - Data is fetched, cleaned, and processed in AWS-based environments for efficient querying and model training.
+  
+- **Frontend Development:**
+  - **Streamlit** is used to create an interactive and user-friendly interface for Career Advisor, allowing real-time engagement and career simulations.
+
+- **Data Storage and Management:**
+  - The salary dataset is sourced from Kaggle and stored in AWS S3 for scalability and accessibility.
+  - Dataset links:
+    - [EDA Data](https://www.kaggle.com/datasets/thedevastator/jobs-dataset-from-glassdoor/data?select=eda_data.csv)
+    - [Glassdoor Jobs Data](https://www.kaggle.com/datasets/thedevastator/jobs-dataset-from-glassdoor/data?select=glassdoor_jobs.csv)
+  
+- **Visualization Tools:**
+  - **Interactive heat maps** linking skills to compensation.
+  - **Career path trees** to visualize earnings potential.
+  - **Dynamic dashboards** for personalized career projections.
 
 ### Confidentiality & Data Protection
 - Utilizes **federated learning** to process salary data locally before aggregating insights.
